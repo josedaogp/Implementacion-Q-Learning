@@ -1,0 +1,5 @@
+partidas: 6.000
+alpha: 0.1
+gamma: 0.65
+
+Agente: AgentEstado del paquete correspondiente

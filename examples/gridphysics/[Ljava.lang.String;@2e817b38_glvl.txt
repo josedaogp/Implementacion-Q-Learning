@@ -1,0 +1,25 @@
+LevelMapping
+    A > avatar floor 
+    s > slowPortal floor 
+    c > fastPortal floor 
+    t > treePortal street 
+    f > fuelPortal floor 
+    w > wall 
+    x > tree street 
+    + > street 
+    . > floor 
+
+LevelDescription
+              
+  s      s    
+     w        
+   .     tf   
+ c     .      
+ s x .        
+       A      
+  t           
+            x 
+      ft   w  
+        w     
+            + 
+              
